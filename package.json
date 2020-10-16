@@ -1,0 +1,23 @@
+{
+  "name": "kprinter",
+  "version": "1.0.0",
+  "description": "C printf replacement in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badcodercpp/kprinter.git"
+  },
+  "keywords": [
+    "printf",
+    "kprinter"
+  ],
+  "author": "badcodecpp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badcodercpp/kprinter/issues"
+  },
+  "homepage": "https://github.com/badcodercpp/kprinter#readme"
+}
